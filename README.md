@@ -18,6 +18,6 @@ This is a Cypress project with the dependencies:
 3. Run 'npx cypress open' to open the Cypress GUI
 4. Click the test you want to run
 
-A descriptive explanation about the code-base can be found on Medium.com:
+A descriptive explanation about the code-base can be found on Medium.com: https://schathurangaj.medium.com/visual-testing-with-cypress-using-applitools-eyes-715b4481cb7f
 
 ## Feel free to Clone, Try-out & Optimize the code-base as your wish!
